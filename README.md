@@ -4,7 +4,7 @@ This script scraps all public data of famous website producthunt.com and saves i
 
 Title,	Short Description,	Category,	Logo URL,	Gallery Image URLs,	Upvote,	description,	Post Date,	Product website URL,	Badge,	Badge Date,	No. of reviews,	Reviews	Hunter URL,	Marker URL,	Product Hunt URL.
 
-Product Hunt offers a daily listing of offers and of best new products,. Discover the latest mobile apps, websites, and technology products that everyone's talking about).
+Product Hunt offers a daily listing of offers and of best new products. Discover the latest mobile apps, websites, and technology products that everyone's talking about.
 
 REQUIREMENTS:
 
