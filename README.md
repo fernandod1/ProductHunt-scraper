@@ -12,7 +12,7 @@ Python v3, BeautifulSoup and xlwt modules.
 
 DISCLAIMER:
 
-I am not responsible about how to use script, all data scrapped data is public on producthunt.com website.
+I am not responsible about how you use script. All scrapped data is public on producthunt.com website.
 
 COLLABORATIONS:
 
