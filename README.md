@@ -1,4 +1,4 @@
-# ProductHunt-scraper
+# ProductHunt scraper
 
 This script scraps all public data of famous website producthunt.com and saves it in spreadsheet excel file containing the following columns:
 
@@ -16,4 +16,4 @@ I am not responsible about how you use script. All scrapped data is public on pr
 
 COLLABORATIONS:
 
-Collaborations to improve this script are always webcome :)
+Collaborations to improve this script are always welcome :)
