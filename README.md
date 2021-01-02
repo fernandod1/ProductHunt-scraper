@@ -16,4 +16,4 @@ I am not responsible about how you use script. All scrapped data is public on pr
 
 COLLABORATIONS:
 
-Collaborations to improve this script are always welcome :)
+Collaborations to improve script are always welcome.

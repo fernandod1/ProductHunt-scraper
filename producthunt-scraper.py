@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.5
 
 # Copyright (c) 2019 Fernando
-# Url: https://github.com/dlfernando/
+# Url: https://github.com/fernandod1/
 # License: MIT
 
 from bs4 import BeautifulSoup
@@ -17,6 +17,7 @@ TOTALPOSTSTOGET = 50
 FROM = 50
 TRACK404 = 0 # not modify this var
 
+# ---------------- Do not modify under this line ------------------------- #
 
 def parse_html(url):
     html_doc = requests.get(url)
