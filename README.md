@@ -1,4 +1,4 @@
-# ProductHunt scraper
+# Python Scraper
 
 This script scraps all public data of famous website producthunt.com and saves it in spreadsheet excel file containing the following columns:
 
